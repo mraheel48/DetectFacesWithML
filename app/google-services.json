@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "430783212985",
+    "firebase_url": "https://cypherit-f4264.firebaseio.com",
+    "project_id": "cypherit-f4264",
+    "storage_bucket": "cypherit-f4264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430783212985:android:9ead2ae968f317c3d1da68",
+        "android_client_info": {
+          "package_name": "com.example.cypherit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430783212985-7cp3b7f50tjm7jassro1ilrkvjhchjam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cypherit",
+            "certificate_hash": "5e6270c593e4c0109047d0cda4853c7b9c66fe41"
+          }
+        },
+        {
+          "client_id": "430783212985-csqmepr7sj8d297c7ipnndqpl583vlut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD80qeaAXX6Nc4-1iQR5qYI2eFxDSrSbDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430783212985-csqmepr7sj8d297c7ipnndqpl583vlut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
